@@ -11,8 +11,8 @@ all/the most active/the most inactive users).
 
 Project is useful because through developing this project developer will learn about 
 Object Oriented Programming, utility of TimerTask class and PreparedStatement class,
-communication with database on local Microsoft 2014 server, Java Swing components,
-design of GUI components,some algorithms and so on.
+communication with database on local Microsoft SQL 2014 server, Java Swing components,
+design of GUI components, some algorithms and so on.
 
 Starting project:
 
@@ -21,7 +21,8 @@ and Users. After that create class MyConnection just like in this project. To
 connect to database you need to download Microsoft JDBC driver 4.0 for SQL server. 
 Then you must configure build path to the sqljdbc4 jar file in your project. If
 you still cant connect to your database, then in your SQL server Configuration
-Manager you have to enable TCP/IP protocol and set his port to 1433.
+Manager you have to enable TCP/IP protocol and set his port to 1433. This is 
+followed by creation of JFrames, JPanels and other GUI components.
 
 Communication:
 
