@@ -7,7 +7,7 @@ About application:
 This GUI application provides to users that they can gamble on numbers. There are 
 3 different games about gambling. Also application has admin section for controlling
 system's flow (creating new user, increase or decrease money to the user, see 
-all/the most active/the most inactive users ).
+all/the most active/the most inactive users).
 
 Project is useful because through developing this project developer will learn about 
 Object Oriented Programming, utility of TimerTask class and PreparedStatement class,
